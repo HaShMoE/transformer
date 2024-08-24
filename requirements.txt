@@ -1,0 +1,14 @@
+pip install chex
+pip install flax
+pip install jax
+pip install optax
+pip install transformers
+pip install livelossplot
+pip install colorama
+pip install matplotlib
+pip install numpy
+pip install seaborn
+pip install gensim
+pip install nltk
+pip install ipywidgets
+pip install IPython
